@@ -61,5 +61,6 @@ $(function(){
         debug : _ga_debug,
         id : _ga_project_id,
         name : _ga_project_name
+        
     });
 });
